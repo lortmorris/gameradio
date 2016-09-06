@@ -1,0 +1,6 @@
+{
+  "db":  {
+    "host": "mongodb://127.0.0.1/radiogame",
+    "collections": ["tweets", "games"]
+  }
+}

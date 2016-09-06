@@ -1,0 +1,31 @@
+{
+  "name": "tweeter",
+  "version": "1.0.0",
+  "description": "Game example using tweeter",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lortmorris/gameradio.git"
+  },
+  "keywords": [
+    "tweeter",
+    "game",
+    "radio"
+  ],
+  "author": "Cesar Casas <cesarcasas@bsdsolutions.com.ar> (https://ar.linkedin.com/in/cesarcasas)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lortmorris/gameradio/issues"
+  },
+  "homepage": "https://github.com/lortmorris/gameradio#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "config": "^1.21.0",
+    "express": "^4.14.0",
+    "mongojs": "^2.4.0",
+    "twitter": "^1.4.0"
+  }
+}
